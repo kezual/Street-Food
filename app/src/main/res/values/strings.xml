@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Street Food</string>
+    <string name="call">0913434343</string>
+    <string name="menu">menu</string>
+    <string name="address">Zdravka Kučića 7A, 51000 Rijeka</string>
+    <string name="hours">Open: 9:00 - 23:00</string>
+    <string name="text">It\'s always good time for Street Food!</string>
+</resources>
