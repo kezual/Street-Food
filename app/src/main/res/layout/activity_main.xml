@@ -17,8 +17,8 @@
 
             <Button
                 style="@style/buttonCall"
-                android:drawableLeft="@drawable/ic_call_white_24dp"
                 android:autoLink="phone"
+                android:drawableLeft="@drawable/ic_call_white_24dp"
                 android:text="@string/call" />
 
             <Button
@@ -34,16 +34,16 @@
             android:layout_height="wrap_content"
             android:text="@string/text" />
 
-        <LinearLayout
-            style="@style/linearInfo">
+        <LinearLayout style="@style/linearInfo">
+
             <TextView
-                android:drawableLeft="@drawable/ic_location_on_black_24dp"
                 style="@style/infoText"
+                android:drawableLeft="@drawable/ic_location_on_black_24dp"
                 android:text="@string/address" />
 
             <TextView
-                android:drawableLeft="@drawable/ic_schedule_black_24dp"
                 style="@style/infoText"
+                android:drawableLeft="@drawable/ic_schedule_black_24dp"
                 android:text="@string/hours" />
         </LinearLayout>
     </LinearLayout>
